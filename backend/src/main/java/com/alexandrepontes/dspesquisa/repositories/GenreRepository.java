@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.alexandrepontes.dspesquisa.entities.Genre;
 
 @Repository
-public interface GenreRepository extends JpaRepository<Long, Genre>{
+public interface GenreRepository extends JpaRepository<Genre, Long>{
 
 }
