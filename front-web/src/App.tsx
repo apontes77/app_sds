@@ -3,7 +3,7 @@ import './App.css'
 
 function App () {
   return (
-    <h1>Contra o River Plate sensacional, gol de quem?</h1>
+    <h1>Iniciando a Aplicação!</h1>
   )
 }
 
