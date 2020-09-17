@@ -1,9 +1,14 @@
 import React from 'react'
 import './App.css'
+import Header from './components/header'
+import Home from './pages/Home'
 
 function App () {
   return (
-    <h1>Iniciando a Aplicação!</h1>
+    <div>
+      <Header />
+      <Home />
+    </div>
   )
 }
 
