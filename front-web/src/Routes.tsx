@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Header from './components/header'
 import Records from './pages/Records'
 
+
 const Routes = () => (
     <BrowserRouter>
         <Header />
